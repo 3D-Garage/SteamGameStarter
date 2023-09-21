@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\SteamGameStarter\bin\Debug\net6.0\SteamGameStarter.exe
+C:\Users\PC\source\repos\SteamGameStarter\bin\Debug\net6.0\SteamGameStarter.deps.json
+C:\Users\PC\source\repos\SteamGameStarter\bin\Debug\net6.0\SteamGameStarter.runtimeconfig.json
+C:\Users\PC\source\repos\SteamGameStarter\bin\Debug\net6.0\SteamGameStarter.dll
+C:\Users\PC\source\repos\SteamGameStarter\bin\Debug\net6.0\SteamGameStarter.pdb
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.AssemblyInfo.cs
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.dll
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\refint\SteamGameStarter.dll
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.pdb
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\SteamGameStarter.genruntimeconfig.cache
+C:\Users\PC\source\repos\SteamGameStarter\obj\Debug\net6.0\ref\SteamGameStarter.dll
